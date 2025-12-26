@@ -69,9 +69,9 @@ The goal of this project is **learning and interpretability**, not over-optimizi
 
 ## ▶️ How to Run the Project
 
-1. Install dependencies:
+- 1. Install dependencies:
    pip install -r requirements.txt
-2.Run the model:
+- 2.Run the model:
   python src/model.py
 
 ## 📚 Key Learnings
@@ -88,7 +88,7 @@ The goal of this project is **learning and interpretability**, not over-optimizi
 - Deploy the model as a web application
 
 ## Author
-Rahul Teja Kotta
+**Rahul Teja Kotta**
 B.Tech CSE (Artificial Intelligence)
 
 ## License
